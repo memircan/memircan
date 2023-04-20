@@ -7,13 +7,11 @@
 
 - 📫 How to reach me **e.tamer_@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/emircantamer/](https://www.linkedin.com/in/emircantamer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emircantamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emircantamer" height="30" width="40" /></a>
 <a href="https://instagram.com/emircantamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emircantamer" height="30" width="40" /></a>
-<a href="https://discord.gg/memircan#2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="memircan#2006" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
